@@ -1,1 +1,3 @@
 * Should I keep public/.htaccess around? I think it is disabled?
+
+testtest
